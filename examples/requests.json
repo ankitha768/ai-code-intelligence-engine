@@ -1,0 +1,5 @@
+{
+  "explain": {"language":"python","code":"def calculate_total(items): return sum(items)"},
+  "sql": {"request":"count all customers","schema_context":"customers(id,name,created_at)"},
+  "document": {"language":"python","code":"def calculate_total(items): return sum(items)"}
+}
