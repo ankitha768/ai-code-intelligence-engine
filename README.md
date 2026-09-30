@@ -60,6 +60,9 @@ POST /api/v1/explain
 
 ## Screenshots
 
+### Product workspace
+![Product overview](docs/screenshots/product-overview.svg)
+
 ### API documentation
 ![API documentation](docs/screenshots/api-docs.svg)
 
