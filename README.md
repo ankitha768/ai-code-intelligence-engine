@@ -84,3 +84,12 @@ requirements.txt
 
 ## Notes
 This repository is a portfolio implementation of the project scope described in the portfolio/resume. Provider credentials and production infrastructure are intentionally externalized through environment variables.
+
+## Production-style support files
+- `Dockerfile` and `docker-compose.yml` for containerized local development.
+- `Makefile` for common commands.
+- `.github/workflows/ci.yml` for automated tests.
+- `docs/API.md` and `examples/` for API usage.
+- `docs/screenshots/product-overview.svg` for the polished product preview.
+
+The visual assets are repository documentation mockups, not claims of a deployed production UI.
